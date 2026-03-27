@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-27T02:43:43.595Z",
-  "pluginCount": 1,
+  "generatedAt": "2026-03-27T04:12:56.009Z",
+  "pluginCount": 3,
   "plugins": [
     {
       "name": "openacp-hello",
@@ -22,6 +22,47 @@
       "license": "MIT",
       "verified": true,
       "featured": true
+    },
+    {
+      "name": "summary-plugin",
+      "displayName": "Summary Plugin",
+      "description": "Ask the AI agent to summarize the current session — what was accomplished, key files changed, decisions made, and current status",
+      "npm": "@peterr0x/summary-plugin",
+      "version": "0.1.0",
+      "minCliVersion": "2026.0326.4",
+      "category": "utility",
+      "tags": [
+        "summary",
+        "session",
+        "ai"
+      ],
+      "icon": "📝",
+      "author": "Peter Parker",
+      "repository": "https://github.com/peterr0x/summary-plugin",
+      "license": "MIT",
+      "verified": false,
+      "featured": false
+    },
+    {
+      "name": "usage-plugin",
+      "displayName": "Usage Plugin",
+      "description": "Automatically tracks token usage and cost per agent session, supports configurable monthly budgets with warning notifications",
+      "npm": "@peterr0x/usage-plugin",
+      "version": "0.1.0",
+      "minCliVersion": "2026.0326.4",
+      "category": "utility",
+      "tags": [
+        "usage",
+        "budget",
+        "cost",
+        "tokens"
+      ],
+      "icon": "📊",
+      "author": "Peter Parker",
+      "repository": "https://github.com/peterr0x/usage-plugin",
+      "license": "MIT",
+      "verified": false,
+      "featured": false
     }
   ],
   "categories": [
