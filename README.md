@@ -7,9 +7,9 @@ The official plugin registry for [OpenACP](https://github.com/Open-ACP/OpenACP).
 <!-- PLUGINS_START -->
 | | Plugin | Description | Category | Version | |
 |---|--------|-------------|----------|---------|---|
-| 👋 | **[Hello World Plugin](https://github.com/Open-ACP/openacp-hello-example)** | Example plugin — greets users on session start | utility | `0.0.1` | ✓ verified |
-| 📝 | **[Summary Plugin](https://github.com/peterr0x/summary-plugin)** | Ask the AI agent to summarize the current session — what was accomplished, key files changed, decisions made, and current status | utility | `0.1.0` |  |
-| 📊 | **[Usage Plugin](https://github.com/peterr0x/usage-plugin)** | Automatically tracks token usage and cost per agent session, supports configurable monthly budgets with warning notifications | utility | `0.1.0` |  |
+| 👋 | **[Hello World Plugin](https://www.npmjs.com/package/openacp-hello-example)** | Example plugin — greets users on session start | utility | `0.0.1` | ✓ verified |
+| 📝 | **[Summary Plugin](https://www.npmjs.com/package/@peterr0x/summary-plugin)** | Ask the AI agent to summarize the current session — what was accomplished, key files changed, decisions made, and current status | utility | `0.1.0` |  |
+| 📊 | **[Usage Plugin](https://www.npmjs.com/package/@peterr0x/usage-plugin)** | Automatically tracks token usage and cost per agent session, supports configurable monthly budgets with warning notifications | utility | `0.1.0` |  |
 <!-- PLUGINS_END -->
 
 **Total: 3 plugins** · [Submit yours →](CONTRIBUTING.md)
