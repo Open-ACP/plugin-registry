@@ -63,7 +63,8 @@ export function generatePluginTable(plugins: any[]): string {
   const header = '| | Plugin | Description | Category | Version | |\n|---|--------|-------------|----------|---------|---|'
   const rows = plugins.map(p => {
     const icon = p.icon || '📦'
-    const name = p.repository ? `**[${p.displayName}](${p.repository})**` : `**${p.displayName}**`
+    const npmUrl = p.npm ? `https://www.npmjs.com/package/${p.npm}` : undefined
+    const name = npmUrl ? `**[${p.displayName}](${npmUrl})**` : `**${p.displayName}**`
     const badge = p.verified ? '✓ verified' : ''
     return `| ${icon} | ${name} | ${p.description} | ${p.category} | \`${p.version}\` | ${badge} |`
   })
