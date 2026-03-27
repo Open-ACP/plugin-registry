@@ -1,0 +1,20 @@
+{
+  "name": "cowork",
+  "displayName": "Cowork — Multi-Agent Coordination",
+  "description": "Coordinate multiple AI agents working on the same codebase with status broadcasting and context injection",
+  "npm": "openacp-cowork",
+  "repository": "https://github.com/norwayiscoming/OpenACP-Cowork",
+  "author": {
+    "name": "norway",
+    "github": "norwayiscoming"
+  },
+  "version": "1.0.1",
+  "minCliVersion": "2026.0326.4",
+  "category": "utility",
+  "tags": ["cowork", "multi-agent", "collaboration", "coordination"],
+  "icon": "🤝",
+  "license": "MIT",
+  "verified": false,
+  "featured": false,
+  "createdAt": "2026-03-27T00:00:00Z"
+}
