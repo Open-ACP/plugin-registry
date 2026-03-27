@@ -3,13 +3,13 @@
   "displayName": "Slack Adapter",
   "description": "Slack messaging platform adapter for OpenACP",
   "npm": "@openacp/adapter-slack",
-  "repository": "https://github.com/EthanMiller0x/slack-plugin",
+  "repository": "https://github.com/Open-ACP/slack-adapter",
   "author": {
     "name": "OpenACP",
     "github": "Open-ACP"
   },
   "version": "0.1.0",
-  "minCliVersion": "2026.0326.0",
+  "minCliVersion": "2026.0327.1",
   "category": "adapter",
   "tags": ["slack", "messaging", "adapter"],
   "icon": "💬",

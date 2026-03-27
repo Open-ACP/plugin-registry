@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-27T02:43:43.595Z",
-  "pluginCount": 1,
+  "generatedAt": "2026-03-27T09:23:27.020Z",
+  "pluginCount": 2,
   "plugins": [
     {
       "name": "openacp-hello",
@@ -22,6 +22,26 @@
       "license": "MIT",
       "verified": true,
       "featured": true
+    },
+    {
+      "name": "adapter-slack",
+      "displayName": "Slack Adapter",
+      "description": "Slack messaging platform adapter for OpenACP",
+      "npm": "@openacp/adapter-slack",
+      "version": "0.1.0",
+      "minCliVersion": "2026.0327.1",
+      "category": "adapter",
+      "tags": [
+        "slack",
+        "messaging",
+        "adapter"
+      ],
+      "icon": "💬",
+      "author": "OpenACP",
+      "repository": "https://github.com/Open-ACP/slack-adapter",
+      "license": "MIT",
+      "verified": true,
+      "featured": false
     }
   ],
   "categories": [
