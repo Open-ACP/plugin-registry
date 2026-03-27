@@ -1,0 +1,20 @@
+{
+  "name": "summary-plugin",
+  "displayName": "Summary Plugin",
+  "description": "Ask the AI agent to summarize the current session — what was accomplished, key files changed, decisions made, and current status",
+  "npm": "@peterr0x/summary-plugin",
+  "repository": "https://github.com/peterr0x/summary-plugin",
+  "author": {
+    "name": "Peter Parker",
+    "github": "peterr0x"
+  },
+  "version": "0.1.0",
+  "minCliVersion": "2026.0326.4",
+  "category": "utility",
+  "tags": ["summary", "session", "ai"],
+  "icon": "📝",
+  "license": "MIT",
+  "verified": false,
+  "featured": false,
+  "createdAt": "2026-03-27T00:00:00Z"
+}

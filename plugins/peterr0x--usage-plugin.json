@@ -1,0 +1,20 @@
+{
+  "name": "usage-plugin",
+  "displayName": "Usage Plugin",
+  "description": "Automatically tracks token usage and cost per agent session, supports configurable monthly budgets with warning notifications",
+  "npm": "@peterr0x/usage-plugin",
+  "repository": "https://github.com/peterr0x/usage-plugin",
+  "author": {
+    "name": "Peter Parker",
+    "github": "peterr0x"
+  },
+  "version": "0.1.0",
+  "minCliVersion": "2026.0326.4",
+  "category": "utility",
+  "tags": ["usage", "budget", "cost", "tokens"],
+  "icon": "📊",
+  "license": "MIT",
+  "verified": false,
+  "featured": false,
+  "createdAt": "2026-03-27T00:00:00Z"
+}
