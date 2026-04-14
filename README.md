@@ -8,13 +8,14 @@ The official plugin registry for [OpenACP](https://github.com/Open-ACP/OpenACP).
 | | Plugin | Description | Category | Version | |
 |---|--------|-------------|----------|---------|---|
 | 👋 | **[Hello World Plugin](https://www.npmjs.com/package/openacp-hello-example)** | Example plugin — greets users on session start | utility | `0.0.1` | ✓ verified |
+| 🏢 | **[Workspace — Multi-User Collaboration](https://www.npmjs.com/package/@openacp/workspace-plugin)** | Multi-user collaboration for shared OpenACP sessions | utility | `2026.414.3` | ✓ verified |
 | 🤝 | **[Cowork — Multi-Agent Coordination](https://www.npmjs.com/package/openacp-cowork)** | Coordinate multiple AI agents working on the same codebase with status broadcasting and context injection | utility | `1.0.1` |  |
 | 📝 | **[Conversation Record & Context Bridge](https://www.npmjs.com/package/@lngdao/openacp-plugin-conversation-record)** | Record session events to JSONL and bridge context between concurrent sessions via /context command | utility | `0.1.0` |  |
 | 📝 | **[Summary Plugin](https://www.npmjs.com/package/@peterr0x/summary-plugin)** | Ask the AI agent to summarize the current session — what was accomplished, key files changed, decisions made, and current status | utility | `0.1.0` |  |
 | 📊 | **[Usage Plugin](https://www.npmjs.com/package/@peterr0x/usage-plugin)** | Automatically tracks token usage and cost per agent session, supports configurable monthly budgets with warning notifications | utility | `0.1.0` |  |
 <!-- PLUGINS_END -->
 
-**Total: 5 plugins** · [Submit yours →](CONTRIBUTING.md)
+**Total: 6 plugins** · [Submit yours →](CONTRIBUTING.md)
 
 ### Install a plugin
 

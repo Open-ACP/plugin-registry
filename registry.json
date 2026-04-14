@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-03-27T06:29:45.735Z",
-  "pluginCount": 5,
+  "generatedAt": "2026-04-14T02:53:50.119Z",
+  "pluginCount": 6,
   "plugins": [
     {
       "name": "openacp-hello",
@@ -19,6 +19,28 @@
       "icon": "👋",
       "author": "OpenACP",
       "repository": "https://github.com/Open-ACP/openacp-hello-example",
+      "license": "MIT",
+      "verified": true,
+      "featured": true
+    },
+    {
+      "name": "workspace-plugin",
+      "displayName": "Workspace — Multi-User Collaboration",
+      "description": "Multi-user collaboration for shared OpenACP sessions",
+      "npm": "@openacp/workspace-plugin",
+      "version": "2026.414.3",
+      "minCliVersion": "2026.414.1",
+      "category": "utility",
+      "tags": [
+        "workspace",
+        "multi-user",
+        "collaboration",
+        "sessions",
+        "sharing"
+      ],
+      "icon": "🏢",
+      "author": "OpenACP",
+      "repository": "https://github.com/Open-ACP/workspace-plugin",
       "license": "MIT",
       "verified": true,
       "featured": true
