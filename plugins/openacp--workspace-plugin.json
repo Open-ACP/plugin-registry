@@ -9,7 +9,7 @@
     "github": "Open-ACP"
   },
   "version": "2026.414.3",
-  "minCliVersion": "2026.410.3",
+  "minCliVersion": "2026.414.1",
   "category": "utility",
   "tags": ["workspace", "multi-user", "collaboration", "sessions", "sharing"],
   "icon": "🏢",
