@@ -8,10 +8,14 @@
     "name": "Peter Parker",
     "github": "peterr0x"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minCliVersion": "2026.0326.4",
   "category": "utility",
-  "tags": ["summary", "session", "ai"],
+  "tags": [
+    "summary",
+    "session",
+    "ai"
+  ],
   "icon": "📝",
   "license": "MIT",
   "verified": false,
