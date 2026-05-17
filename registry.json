@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-04-14T02:53:50.119Z",
+  "generatedAt": "2026-05-17T08:06:12.027Z",
   "pluginCount": 6,
   "plugins": [
     {
@@ -28,7 +28,7 @@
       "displayName": "Workspace — Multi-User Collaboration",
       "description": "Multi-user collaboration for shared OpenACP sessions",
       "npm": "@openacp/workspace-plugin",
-      "version": "2026.414.3",
+      "version": "2026.415.1",
       "minCliVersion": "2026.414.1",
       "category": "utility",
       "tags": [
@@ -50,7 +50,7 @@
       "displayName": "Cowork — Multi-Agent Coordination",
       "description": "Coordinate multiple AI agents working on the same codebase with status broadcasting and context injection",
       "npm": "openacp-cowork",
-      "version": "1.0.1",
+      "version": "1.0.9",
       "minCliVersion": "2026.0326.4",
       "category": "utility",
       "tags": [
@@ -93,7 +93,7 @@
       "displayName": "Summary Plugin",
       "description": "Ask the AI agent to summarize the current session — what was accomplished, key files changed, decisions made, and current status",
       "npm": "@peterr0x/summary-plugin",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "minCliVersion": "2026.0326.4",
       "category": "utility",
       "tags": [
@@ -113,7 +113,7 @@
       "displayName": "Usage Plugin",
       "description": "Automatically tracks token usage and cost per agent session, supports configurable monthly budgets with warning notifications",
       "npm": "@peterr0x/usage-plugin",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "minCliVersion": "2026.0326.4",
       "category": "utility",
       "tags": [

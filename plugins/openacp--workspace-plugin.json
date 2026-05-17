@@ -8,10 +8,16 @@
     "name": "OpenACP",
     "github": "Open-ACP"
   },
-  "version": "2026.414.3",
+  "version": "2026.415.1",
   "minCliVersion": "2026.414.1",
   "category": "utility",
-  "tags": ["workspace", "multi-user", "collaboration", "sessions", "sharing"],
+  "tags": [
+    "workspace",
+    "multi-user",
+    "collaboration",
+    "sessions",
+    "sharing"
+  ],
   "icon": "🏢",
   "license": "MIT",
   "verified": true,

@@ -8,10 +8,15 @@
     "name": "norway",
     "github": "norwayiscoming"
   },
-  "version": "1.0.1",
+  "version": "1.0.9",
   "minCliVersion": "2026.0326.4",
   "category": "utility",
-  "tags": ["cowork", "multi-agent", "collaboration", "coordination"],
+  "tags": [
+    "cowork",
+    "multi-agent",
+    "collaboration",
+    "coordination"
+  ],
   "icon": "🤝",
   "license": "MIT",
   "verified": false,
